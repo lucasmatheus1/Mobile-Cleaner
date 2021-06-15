@@ -34,3 +34,5 @@ O Mobile Cleaner propõe o monitoramento da limpeza em dispositivos móveis. A p
 Desenvolvido por [Lucas](https://github.com/lucasmatheus1) e [Moabe](https://github.com/Moabebarbosaa)
 
 ![Gif](consoleUsuario.gif)
+
+Créditos: [Intellij](https://www.jetbrains.com/idea/)
